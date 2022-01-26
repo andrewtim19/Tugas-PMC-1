@@ -1,2 +1,3 @@
 # Tugas-Tugas PMC
- 1. Aplikasi penuang teko yang pada akhirnya menghasilkan nilai 4 
+ 1. Waterjug = Aplikasi penuang teko yang pada akhirnya menghasilkan nilai 4 
+ 2.  
